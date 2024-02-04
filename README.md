@@ -1,2 +1,10 @@
-# bioSite
-This is a biographical webpage mock up for Web Dev w/ HTML and CSS
+# <H1> CSD 340 Web Development with HTML and CSS
+
+
+# <H2> Contributers
+
+- Joseph Issa
+
+
+- Dominique Monroe
+
