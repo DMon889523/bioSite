@@ -12,6 +12,10 @@ nav a {
     color: #9370DB; /* light purple */
 }
 
+    nav a:hover {
+    color: #FFA500; /* orange */
+}
+
 header, h1, h2 {
     font-family: 'Lucida', Lucida Handwriting;
     font-weight: bold;
