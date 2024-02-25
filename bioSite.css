@@ -62,6 +62,8 @@ p {
 }
 #main-photo{
     width: 100%
+    position: fixed;
+    centered: 0;
 }
 .grid1{
     display: grid;
