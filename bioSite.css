@@ -53,6 +53,36 @@ p {
     margin: 20px 0;
     text-align: center;
 }
+#container{
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%
+    padding: 10px;
+}
+#main-photo{
+    width: 100%
+}
+.grid1{
+    display: grid;
+    grid-template-columns: 25% 70%;
+    padding-bottom: 40px;
+}
+.grid2{
+    display: grid;
+    grid-template-columns: 70%;
+    font-size: 2em;
+    padding-bottom: 40px;
+    text-align: center;
+    padding-left: 20%;
+}
+.photo{
+    position: relative;
+    text-align: center;
+    width: 100%
+    height: auto;
+    padding-bottom: 10%
+}
 
 img {
     width: 100%;
