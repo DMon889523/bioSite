@@ -1,6 +1,6 @@
 body {
-    background:  background-color: #9370DB;
-    font-family: 'Lucida', Lucida Bright;
+    background-color: #9370DB;
+    font-family: 'Lucida', 'Lucida Bright', sans-serif;
     color: #000000; /* black */
 }
 
@@ -12,19 +12,17 @@ nav a {
     color: #9370DB; /* light purple */
 }
 
-    nav a:hover {
+nav a:hover {
     color: #FFA500; /* orange */
 }
 
 header, h1, h2 {
-    font-family: 'Lucida', Lucida Handwriting;
+    font-family: 'Lucida', 'Lucida Handwriting', cursive;
     font-weight: bold;
 }
 
 p {
-    font-family: 'Calibri', Calibri Light;
-}
-
+    font-family: 'Calibri', 'Calibri Light', sans-serif;
 }
 
 h1 {
@@ -63,9 +61,5 @@ img {
 }
 
 a:hover {
-    text-decoration: underline;
-}
-
-footer {
     text-decoration: underline;
 }
