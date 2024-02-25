@@ -1,12 +1,26 @@
 body {
-    background-color: #e6e6fa; /* Light Purple background */
-    color: #4b0082; /* Complimentary font color */
-    font-family: 'Kunstler Script Bold', cursive;
-    text-align: center;
+    background: url('https://www.vectorstock.com/royalty-free-vector/purple-and-gold-luxury-background-vector-1345539') repeat;
+    font-family: 'Lucida', Lucida Bright;
+    color: #000000; /* black */
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Kunstler Script Bold', cursive;
+nav {
+    background-color: #FFD700; /* gold */
+}
+
+nav a {
+    color: #9370DB; /* light purple */
+}
+
+header, h1, h2 {
+    font-family: 'Lucida', Lucida Handwriting;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Calibri', Calibri Light;
+}
+
 }
 
 h1 {
@@ -44,11 +58,10 @@ img {
     margin: 10px auto; /* Center and add margin */
 }
 
-a {
-    color: #4b0082; /* Complimentary link color */
-    text-decoration: none;
+a:hover {
+    text-decoration: underline;
 }
 
-a:hover {
+footer {
     text-decoration: underline;
 }
